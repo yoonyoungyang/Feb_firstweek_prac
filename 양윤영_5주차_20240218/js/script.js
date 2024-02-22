@@ -24,6 +24,7 @@ var id = 4;
 (id % 2 == 0) ? document.write("당신은 여성입니다.", "<br />"):document.write("당신은 남성입니다.", "<br />");
 
 //실습5
+document.write("<h3>실습5</h3>");
 var img="";
 img += "<img src='./img/kakao_01.jpg'>"
 img += "<img src='./img/kakao_02.jpg'>"
