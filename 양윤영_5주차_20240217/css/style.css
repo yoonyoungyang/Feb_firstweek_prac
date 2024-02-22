@@ -1,0 +1,7 @@
+.snoopy{
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/snoopy_02.png);
+    background-position: 50% 50%;
+    background-size: cover;
+}
